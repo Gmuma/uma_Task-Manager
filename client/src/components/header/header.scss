@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    justify-content: space-between ;
+    background-color: rgb(219, 218, 216);
+    align-items: center;
+    height: 60px;
+    padding: 0 20px;
+
+    &__logo{
+        h3{
+            color: white;
+            font-weight: 300;
+        }
+    }
+
+    .button{
+        background-color: rgba(53, 43, 201, 0.322);
+    }
+}
+
